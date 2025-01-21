@@ -20,8 +20,8 @@ Love chatting about all things **data**, from analytics to AI/ML breakthroughs. 
 
 ## 📫 Contact Me
 - **Email:** [pande.shr@northeastern.edu](mailto:pande.shr@northeastern.edu)
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/shreya-pande-21ab79192)
-- **Kaggle:** [Your Kaggle](https://kaggle.com/shreyapande0)
+- **LinkedIn:** [LinkedIn](https://linkedin.com/in/shreya-pande-21ab79192)
+- **Kaggle:** [Kaggle](https://kaggle.com/shreyapande0)
 
 
 Thanks for stopping by! 😊
