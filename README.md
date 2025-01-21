@@ -15,9 +15,7 @@ Hi 👋! My name is **Shreya Pande** and I'm a **data scientist** from Boston. I
 - **Tools:** AWS, Tableau, Power BI
 
 ## 📊 Stats
-![Languages Graph](#)
-![Streak Graph](#)
-- **Profile Visits:** ![Profile Visits](#)
+![Profile Views](https://komarev.com/ghpvc/shreyapande1)
 
 ## 💬 HMU
 Love chatting about all things **data**, from analytics to AI/ML breakthroughs. Let's connect!
@@ -25,6 +23,7 @@ Love chatting about all things **data**, from analytics to AI/ML breakthroughs. 
 ## 📫 Contact Me
 - **Email:** [pande.shr@northeastern.edu](mailto:pande.shr@northeastern.edu)
 - **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/shreya-pande-21ab79192)
+- 
 
 
 Thanks for stopping by! 😊
