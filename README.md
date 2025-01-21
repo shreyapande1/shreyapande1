@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi!! Shreya here :) 
 
-<!--
-**shreyapande1/shreyapande1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a little about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
+Hi 👋! My name is **Shreya Pande** and I'm a **data scientist** from Boston. I have my **master's in Data Science** from Northeastern University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently exploring **LLMs**, **neural networks**, and **generative AI**.
+- 💬 Ask me about **Python**.
+- ⚡ Fun fact: Powered by caffeine and cats!
+
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL, NoSQL, MongoDB
+- **Frameworks:** Scikit-Learn, TensorFlow, PyTorch, Keras
+- **Tools:** AWS, Tableau, Power BI
+
+## 📊 Stats
+![Languages Graph](#)
+![Streak Graph](#)
+- **Profile Visits:** ![Profile Visits](#)
+
+## 💬 HMU
+Love chatting about all things **data**, from analytics to AI/ML breakthroughs. Let's connect!
+
+## 📫 Contact Me
+- **Email:** [pande.shr@northeastern.edu](mailto:pande.shr@northeastern.edu)
+- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/shreya-pande-21ab79192)
+
+
+Thanks for stopping by! 😊
